@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sipp_benda">
+    package="com.example.sidb">
    <application
-        android:label="sipp_benda"
+        android:label="sidb"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

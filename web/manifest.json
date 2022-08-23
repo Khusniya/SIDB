@@ -1,6 +1,6 @@
 {
-    "name": "sipp_benda",
-    "short_name": "sipp_benda",
+    "name": "sidb",
+    "short_name": "sidb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
